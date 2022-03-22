@@ -49,10 +49,10 @@
         <id>first-blog-post</id>
         <link href="https://oowe.github.io/blog/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
+        <summary type="html"><![CDATA[哈囉你好嗎　衷心感謝　珍重再見　期待再相逢]]></summary>
         <author>
-            <name>Gao Wei</name>
-            <uri>https://github.com/wgao19</uri>
+            <name>Aaron</name>
+            <uri>https://github.com/oowe</uri>
         </author>
     </entry>
 </feed>
