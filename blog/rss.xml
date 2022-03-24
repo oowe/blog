@@ -4,43 +4,36 @@
         <title>Aaron's Blog Blog</title>
         <link>https://oowe.github.io/blog/blog</link>
         <description>Aaron's Blog Blog</description>
-        <lastBuildDate>Tue, 22 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Test]]></title>
-            <link>https://oowe.github.io/blog/blog/test</link>
-            <guid>test</guid>
-            <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[test]]></description>
+            <title><![CDATA[Backup Restore Function]]></title>
+            <link>https://oowe.github.io/blog/blog/backup-restore-function</link>
+            <guid>backup-restore-function</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Reference:]]></description>
         </item>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://oowe.github.io/blog/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
+            <title><![CDATA[Oxygen Management System]]></title>
+            <link>https://oowe.github.io/blog/blog/oxygen-management-system</link>
+            <guid>oxygen-management-system</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[個人練習專案]]></description>
         </item>
         <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://oowe.github.io/blog/blog/mdx-blog-post</link>
-            <guid>mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
+            <title><![CDATA[Survey OpenADR]]></title>
+            <link>https://oowe.github.io/blog/blog/survey-openadr</link>
+            <guid>survey-openadr</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[我國現行電力環境面臨以下問題對於備轉容量造成危機：]]></description>
         </item>
         <item>
-            <title><![CDATA[Long Blog Post]]></title>
-            <link>https://oowe.github.io/blog/blog/long-blog-post</link>
-            <guid>long-blog-post</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[This is the summary of a very long blog post,]]></description>
-        </item>
-        <item>
-            <title><![CDATA[First Blog Post]]></title>
-            <link>https://oowe.github.io/blog/blog/first-blog-post</link>
-            <guid>first-blog-post</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[哈囉你好嗎　衷心感謝　珍重再見　期待再相逢]]></description>
+            <title><![CDATA[Milk Serum]]></title>
+            <link>https://oowe.github.io/blog/blog/milk-serum</link>
+            <guid>milk-serum</guid>
+            <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Impact 分離乳清蛋白粉 | 優質分離乳清 | MYPROTEIN™ 台灣]]></description>
         </item>
     </channel>
 </rss>
