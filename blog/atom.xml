@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oowe.github.io/blog/blog</id>
-    <title>OOWE's Blog Blog</title>
+    <title>OOWE's Software Develop Notes Blog</title>
     <updated>2022-03-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oowe.github.io/blog/blog"/>
-    <subtitle>OOWE's Blog Blog</subtitle>
+    <subtitle>OOWE's Software Develop Notes Blog</subtitle>
     <icon>https://oowe.github.io/blog/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Backup Restore Function]]></title>
