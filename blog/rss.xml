@@ -35,5 +35,12 @@
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Impact 分離乳清蛋白粉 | 優質分離乳清 | MYPROTEIN™ 台灣]]></description>
         </item>
+        <item>
+            <title><![CDATA[OpenADR Introduction]]></title>
+            <link>https://oowe.github.io/blog/blog/2021/07/21/openadr</link>
+            <guid>OpenADR Introduction</guid>
+            <pubDate>Wed, 21 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[OpenADR 是由美國的實驗室(LBNL)在西元 2008 年發表 OpenADR1.0 所誕生。全名為 Open Source Auto Demand Resonse(自動需量反應)。]]></description>
+        </item>
     </channel>
 </rss>

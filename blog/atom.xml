@@ -51,4 +51,11 @@
             <uri>https://github.com/oowe</uri>
         </author>
     </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenADR Introduction]]></title>
+        <id>OpenADR Introduction</id>
+        <link href="https://oowe.github.io/blog/blog/2021/07/21/openadr"/>
+        <updated>2021-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenADR 是由美國的實驗室(LBNL)在西元 2008 年發表 OpenADR1.0 所誕生。全名為 Open Source Auto Demand Resonse(自動需量反應)。]]></summary>
+    </entry>
 </feed>
