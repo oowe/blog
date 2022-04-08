@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[4491],{7163:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/blog/tags","slug":"/blog/blog/tags/ufw","name":"Ufw","count":1,"permalink":"/blog/blog/tags/ufw"}')}}]);

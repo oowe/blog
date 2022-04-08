@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[4128],{9719:function(l){l.exports=JSON.parse('{"allTagsPath":"/blog/blog/tags","slug":"/blog/blog/tags/docker","name":"Docker","count":1,"permalink":"/blog/blog/tags/docker"}')}}]);

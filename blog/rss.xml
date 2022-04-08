@@ -4,9 +4,16 @@
         <title>OOWE's Software Develop Notes Blog</title>
         <link>https://oowe.github.io/blog/blog</link>
         <description>OOWE's Software Develop Notes Blog</description>
-        <lastBuildDate>Thu, 24 Mar 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Setup Computer]]></title>
+            <link>https://oowe.github.io/blog/blog/setup-computer</link>
+            <guid>setup-computer</guid>
+            <pubDate>Thu, 07 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Step by step are following:]]></description>
+        </item>
         <item>
             <title><![CDATA[Backup Restore Function]]></title>
             <link>https://oowe.github.io/blog/blog/backup-restore-function</link>
