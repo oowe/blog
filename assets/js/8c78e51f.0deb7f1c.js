@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[6936],{1957:function(t){t.exports=JSON.parse('{"allTagsPath":"/blog/blog/tags","slug":"/blog/blog/tags/intermittent-fasting","name":"Intermittent fasting","count":1,"permalink":"/blog/blog/tags/intermittent-fasting"}')}}]);

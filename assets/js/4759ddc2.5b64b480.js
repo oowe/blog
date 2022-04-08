@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[4496],{5198:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/blog/tags","slug":"/blog/blog/tags/fitness","name":"Fitness","count":1,"permalink":"/blog/blog/tags/fitness"}')}}]);
