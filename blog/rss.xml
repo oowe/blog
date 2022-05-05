@@ -4,9 +4,16 @@
         <title>OOWE's Software Develop Notes Blog</title>
         <link>https://oowe.github.io/blog/blog</link>
         <description>OOWE's Software Develop Notes Blog</description>
-        <lastBuildDate>Wed, 27 Apr 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Doc Format]]></title>
+            <link>https://oowe.github.io/blog/blog/doc format</link>
+            <guid>doc format</guid>
+            <pubDate>Thu, 05 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[中文文件編號格式]]></description>
+        </item>
         <item>
             <title><![CDATA[Bug Report Format]]></title>
             <link>https://oowe.github.io/blog/blog/bug report format</link>
