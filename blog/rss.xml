@@ -4,9 +4,22 @@
         <title>OOWE's Software Develop Notes Blog</title>
         <link>https://oowe.github.io/blog/blog</link>
         <description>OOWE's Software Develop Notes Blog</description>
-        <lastBuildDate>Thu, 05 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Copy Picture From Iphone]]></title>
+            <link>https://oowe.github.io/blog/blog/copy-picture-from-iphone</link>
+            <guid>copy-picture-from-iphone</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Make Tel Line]]></title>
+            <link>https://oowe.github.io/blog/blog/make-tel-line</link>
+            <guid>make-tel-line</guid>
+            <pubDate>Wed, 11 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[目前比較常用的網路線接頭，是 6Pin，線材比較常用兩線或四線]]></description>
+        </item>
         <item>
             <title><![CDATA[Doc Format]]></title>
             <link>https://oowe.github.io/blog/blog/doc format</link>

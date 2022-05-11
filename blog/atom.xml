@@ -2,11 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oowe.github.io/blog/blog</id>
     <title>OOWE's Software Develop Notes Blog</title>
-    <updated>2022-05-05T00:00:00.000Z</updated>
+    <updated>2022-05-11T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://oowe.github.io/blog/blog"/>
     <subtitle>OOWE's Software Develop Notes Blog</subtitle>
     <icon>https://oowe.github.io/blog/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Copy Picture From Iphone]]></title>
+        <id>copy-picture-from-iphone</id>
+        <link href="https://oowe.github.io/blog/blog/copy-picture-from-iphone"/>
+        <updated>2022-05-11T00:00:00.000Z</updated>
+        <author>
+            <name>oowe</name>
+            <uri>https://github.com/oowe</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Tel Line]]></title>
+        <id>make-tel-line</id>
+        <link href="https://oowe.github.io/blog/blog/make-tel-line"/>
+        <updated>2022-05-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[目前比較常用的網路線接頭，是 6Pin，線材比較常用兩線或四線]]></summary>
+        <author>
+            <name>oowe</name>
+            <uri>https://github.com/oowe</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doc Format]]></title>
         <id>doc format</id>

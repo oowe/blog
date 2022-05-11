@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[4590],{6561:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/blog/tags","slug":"/blog/blog/tags/windows-10","name":"windows10","count":1,"permalink":"/blog/blog/tags/windows-10"}')}}]);
