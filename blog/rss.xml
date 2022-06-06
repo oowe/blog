@@ -4,9 +4,16 @@
         <title>OOWE's Software Develop Notes Blog</title>
         <link>https://oowe.github.io/blog/blog</link>
         <description>OOWE's Software Develop Notes Blog</description>
-        <lastBuildDate>Wed, 11 May 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Work Tools]]></title>
+            <link>https://oowe.github.io/blog/blog/work-tools</link>
+            <guid>work-tools</guid>
+            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Tools]]></description>
+        </item>
         <item>
             <title><![CDATA[Copy Picture From Iphone]]></title>
             <link>https://oowe.github.io/blog/blog/copy-picture-from-iphone</link>
@@ -74,7 +81,7 @@
             <link>https://oowe.github.io/blog/blog/milk-serum</link>
             <guid>milk-serum</guid>
             <pubDate>Wed, 23 Mar 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[Impact 分離乳清蛋白粉 | 優質分離乳清 | MYPROTEIN™ 台灣]]></description>
+            <description><![CDATA[品牌列表]]></description>
         </item>
         <item>
             <title><![CDATA[OpenADR Introduction]]></title>
